@@ -1,0 +1,19 @@
+body {
+
+  font-family: Arial, sans-serif;
+
+}
+
+.card {
+
+  border-radius: 10px;
+  transition: 0.3s;
+
+}
+
+.badge {
+
+  font-size: 14px;
+  padding: 8px 12px;
+
+}
